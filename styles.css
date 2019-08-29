@@ -1,0 +1,187 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:1;
+} 
+
+ #picturearea 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 542px;
+	 z-index:2;
+} 
+
+ #box 
+{ 
+	 left: 673px; 
+	 top: 165px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 749px;
+	 z-index:3;
+} 
+
+ #layer_4 
+{ 
+	 left: 904px; 
+	 top: 667px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 16px;
+	 z-index:4;
+} 
+
+ #layer_5 
+{ 
+	 left: 804px; 
+	 top: 798px; 
+	 position: absolute; 
+	 width: 292px;
+	 height: 76px;
+	 z-index:5;
+} 
+
+ #btn 
+{ 
+	 left: 773px; 
+	 top: 701px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 68px;
+	 z-index:6;
+} 
+
+ #Google 
+{ 
+	 left: 876px; 
+	 top: 729px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 18px;
+	 z-index:7;
+} 
+
+ #btn_0 
+{ 
+	 left: 773px; 
+	 top: 574px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 68px;
+	 z-index:8;
+} 
+
+ #layer_9 
+{ 
+	 left: 902px; 
+	 top: 602px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 17px;
+	 z-index:9;
+} 
+
+ #input 
+{ 
+	 left: 773px; 
+	 top: 474px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 63px;
+	 z-index:10;
+} 
+
+ #layer_11 
+{ 
+	 left: 805px; 
+	 top: 501px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 16px;
+	 z-index:11;
+} 
+
+ #input_0 
+{ 
+	 left: 773px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 63px;
+	 z-index:12;
+} 
+
+ #layer_13 
+{ 
+	 left: 805px; 
+	 top: 409px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 16px;
+	 z-index:13;
+} 
+
+ #input_1 
+{ 
+	 left: 773px; 
+	 top: 294px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 63px;
+	 z-index:14;
+} 
+
+ #layer_15 
+{ 
+	 left: 805px; 
+	 top: 319px; 
+	 position: absolute; 
+	 width: 160px;
+	 height: 16px;
+	 z-index:15;
+} 
+
+ #layer_16 
+{ 
+	 left: 891px; 
+	 top: 238px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 17px;
+	 z-index:16;
+} 
+
+ #INEWSGE 
+{ 
+	 left: 877px; 
+	 top: 109px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 20px;
+	 z-index:17;
+} 
